@@ -1,0 +1,11 @@
+This semester in Computer Science, we started by learning the basics of Python, and then moved on to applications such as graphing and customer service simulations. We assessed understanding through written tests, which demonstrate fundamental understanding, and problem sets, which tend to push students to think creatively to solve complex problems.
+
+Your testing average was 96%. Great work, I am excited to see what you will do next semester. Come see me if you find yourself in need of a greater challenge. You showed consistent effort on your unit tests throughout the semester. Your semester exam was exmplatory of your level of competence with the material, similar to your previous performance. Keep up the good work.
+
+Your problem sets showed some consistent effort, with an average score of 92. Keep improving!
+
+Overall, your banking project was decent, with a grade of 89.0. This project required collaboration between you and your partner, Kanye, and you worked together well. Your code was generally solid, save for a few key errors that knocked your grade down.
+
+You were great to have in class this year, and most of the time, you were a decent contributor and learner. Throughout the year, you were a decent collaborator, and worked in tandem with your table-mates on assignments and problem sets. You were always focused and hard-working during class, and set a good example for your peers. You didn't ever seek help outside of class, although, based on your grade, you didn't really need it. Overall, you have the potential to be great team member, both in this class and in any future computer science endeavors you might undertake.
+
+Overall, your grade this semester was an A. We look forwards to your continued excellence in the second semester!

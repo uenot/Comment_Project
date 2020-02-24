@@ -1,0 +1,11 @@
+This semester in Computer Science, we started by learning the basics of Python, and then moved on to applications such as graphing and customer service simulations. We assessed understanding through written tests, which demonstrate fundamental understanding, and problem sets, which tend to push students to think creatively to solve complex problems.
+
+Your testing average was 88%. You seemed to have just the right amount of challenge on tests and have the opportunity to seek out even more. Great work this semester. You had a wide range in your test scores. Considering your performance on the unit tests, your semester exam seemed to lack the same ability you showed previously.
+
+Your problem sets showed some consistent effort, with an average score of 86. Keep improving!
+
+Overall, your banking project was decent, with a grade of 92.0. This project required collaboration between you and your partner, Beyonce, and you worked together very well. Your code was generally solid, save for a few key errors that knocked your grade down.
+
+You were great to have in class this year, and most of the time, you were a decent contributor and learner. Throughout the year, you worked well with your table-mates, and were always an excellent person to share ideas with. You often got off-track during class, to the point where your actions distracted others. You started the year by seeking help often, but this tapered off as the year went on. However, it seems that you took a lot away from our conversations, and didn't need our help as much once you got the basics down. Overall, you have the potential to be great team member, both in this class and in any future computer science endeavors you might undertake.
+
+Overall, your grade this semester was an B+. We look forwards to your growth in the second semester!
